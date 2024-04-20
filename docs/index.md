@@ -1,4 +1,4 @@
-# :material-rocket-launch-outline:Getting Started
+# :rocket:{ .sm .middle }Getting Started
 
 SSB AI brought to you by Feynman Pi allows you to prepare for your coming SSB interview preparation using the best of technology.
 
