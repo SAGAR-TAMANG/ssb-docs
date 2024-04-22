@@ -18,7 +18,7 @@ SSB AI brought to you by Feynman Pi allows you to prepare for your coming SSB in
 
     Your data is your property. We follow the strict policy of no data collection if otherwise consented.
 
-    [:octicons-arrow-right-24: Learn More](#)
+    [:octicons-arrow-right-24: Learn More](page3#collection-of-your-information)
 
 -   :fontawesome-solid-phone:{ .lg .middle } __Talk to the Founder__
 
@@ -26,7 +26,7 @@ SSB AI brought to you by Feynman Pi allows you to prepare for your coming SSB in
 
     Schedule a one-on-one call chat with the founder to discuss how we can help.
 
-    [:octicons-arrow-right-24: Talk to the Founder](#)
+    [:octicons-arrow-right-24: Talk to the Founder](https://cal.com/sagar-tamang/feynman-pi){ target="_blank" }
 
 -   :fontawesome-solid-envelope:{ .lg .middle } __Email Us__
 
@@ -34,7 +34,7 @@ SSB AI brought to you by Feynman Pi allows you to prepare for your coming SSB in
 
     We are always willing to hear from you. Any queries or support.
 
-    [:octicons-arrow-right-24: Email](#)
+    [:octicons-arrow-right-24: Email](mailto:cs22bcagn033@kazirangauniversity.in)
 
 </div>
 
