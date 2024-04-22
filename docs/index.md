@@ -68,7 +68,7 @@ def abc:
 
 The main motivation of this project is to enable a reliable way to prepare for the Service Selection Boards Exam.
 
-The idea for creating this began when _Sagar Tamang's_ big brother _Paraj Bahadur Tamang_, who is currently in __Officer's Training Academy Chennai (OTA Chennai)__, suggested a need for an app that could provide a seamless way to practice for Service Selection Board's Tests. 
+The idea for creating this began when _Sagar Tamang's_ big brother _Paraj Bahadur Tamang_ (as seen in the image), who is currently in __Officer's Training Academy Chennai (OTA Chennai)__, suggested a need for an app that could provide a seamless way to practice for Service Selection Board's Tests. 
 
 Soon enough, _Sagar Tamang_ began building the entire project under his guidance.
 
