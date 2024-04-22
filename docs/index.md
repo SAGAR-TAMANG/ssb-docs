@@ -2,8 +2,6 @@
 
 SSB AI brought to you by Feynman Pi allows you to prepare for your coming SSB interview preparation using the best of technology.
 
-## About
-
 <div class="grid cards" markdown>
 
 -   :fontawesome-solid-play:{ .lg .middle } __introduction video__
@@ -63,3 +61,14 @@ import abc
 def abc:
     print("Something")
 ``` -->
+
+## About
+
+![Image title](https://raw.githubusercontent.com/SAGAR-TAMANG/ssb-docs/master/img/paraj_headshot2.jpg){ align=right }
+
+The main motivation of this project is to enable a reliable way to prepare for the Service Selection Boards Exam.
+
+The idea for creating this began when _Sagar Tamang's_ big brother _Paraj Bahadur Tamang_, who is currently in __Officer's Training Academy Chennai (OTA Chennai)__, suggested a need for an app that could provide a seamless way to practice for Service Selection Board's Tests. 
+
+Soon enough, _Sagar Tamang_ began building the entire project under his guidance.
+

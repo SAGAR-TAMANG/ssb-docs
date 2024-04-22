@@ -18,7 +18,7 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
       primary: indigo
-      accent: purple
+      accent: blue
     - scheme: slate
       toggle:
         icon: material/toggle-switch
@@ -58,4 +58,4 @@ markdown_extensions:
 
 
 copyright: |
-  &copy; 2023 <a href="https://github.com/SAGAR-TAMANG" target="_blank" rel="noopener">Sagar Tamang</a>
+  &copy; 2023 <a href="https://sagartamang.com/" target="_blank" rel="noopener">Sagar Tamang</a>
