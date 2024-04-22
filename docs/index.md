@@ -4,7 +4,7 @@ SSB AI brought to you by Feynman Pi allows you to prepare for your coming SSB in
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-play:{ .lg .middle } __introduction video__
+-   :fontawesome-solid-play:{ .lg .middle } __Introduction Video__
 
     ---
 
@@ -72,3 +72,26 @@ The idea for creating this began when _Sagar Tamang's_ big brother _Paraj Bahadu
 
 Soon enough, _Sagar Tamang_ began building the entire project under his guidance.
 
+## Community
+
+Join the vibrant community of Feynman Pi, and get ready to be mentored by industry experts.
+
+<div class="grid cards" markdown>
+
+-   :fontawesome-solid-play:{ .lg .middle } __Whatsapp Community__
+
+    ---
+
+    Join the official Feynman Pi Whatsapp community!
+
+    [:octicons-arrow-right-24: Introduction Video](#)
+
+-   :fontawesome-solid-info:{ .lg .middle } __Telegram Channel__
+
+    ---
+
+    Join the official Feynman Pi Telegram channel!
+
+    [:octicons-arrow-right-24: Learn More](#)
+
+</div>
