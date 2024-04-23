@@ -1,6 +1,7 @@
 site_name: Official Documentation - SSB Sagar Tamang
 theme:
   name: material
+  favicon: https://raw.githubusercontent.com/SAGAR-TAMANG/ssb-docs/master/img/pi2.png
   features:
     - navigation.tabs
     - navigation.sections

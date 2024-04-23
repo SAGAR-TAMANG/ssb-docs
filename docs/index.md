@@ -84,7 +84,7 @@ Join the vibrant community of Feynman Pi, and get ready to be mentored by indust
 
     Join the official Feynman Pi Whatsapp community!
 
-    [:octicons-arrow-right-24: Introduction Video](#)
+    [:octicons-arrow-right-24: Join Now](https://tally.so/r/w5dZ5o){ target="_blank" }
 
 -   :fontawesome-solid-info:{ .lg .middle } __Telegram Channel__
 
@@ -92,6 +92,6 @@ Join the vibrant community of Feynman Pi, and get ready to be mentored by indust
 
     Join the official Feynman Pi Telegram channel!
 
-    [:octicons-arrow-right-24: Learn More](#)
+    [:octicons-arrow-right-24: Join Now](https://tally.so/r/w5dZ5o){ target="_blank" }
 
 </div>
