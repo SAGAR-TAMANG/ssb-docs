@@ -49,6 +49,10 @@ You have the right to request access to, update, or delete the personal data we 
 
 If you are a resident of a jurisdiction covered by applicable data protection laws, such as the General Data Protection Regulation (GDPR), you have specific data protection rights. We aim to facilitate these rights to the extent feasible and appropriate.
 
+## Refund and Cancellation Policy
+
+Once the amount has been transferred there is no coming back. In simple terms, there is no refund or cancellation.
+
 ## Changes to This Privacy Policy
 
 We reserve the right to update this Privacy Policy as needed. Any changes will be reflected by updating the "Effective Date" at the top of this policy. We will also notify you via email or through a prominent notice on our platform before the changes take effect.

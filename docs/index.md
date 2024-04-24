@@ -72,6 +72,15 @@ The idea for creating this began when _Sagar Tamang's_ big brother _Paraj Bahadu
 
 Soon enough, _Sagar Tamang_ began building the entire project under his guidance.
 
+## Contact
+
+__Phone:__ +91 9706641743
+
+__Email:__ [cs22bcagn033@kazirangauniversity.in](mailto:cs22bcagn033@kazirangauniversity.in)
+
+__Address:__ The Assam Kaziranga University, <br> NH-37, Koraikhowa, <br> Jorhat, Assam, India <br> Pin: 785006
+
+
 ## Community
 
 Join the vibrant community of Feynman Pi, and get ready to be mentored by industry experts.
