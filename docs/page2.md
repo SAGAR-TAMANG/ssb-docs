@@ -10,7 +10,7 @@ Get started with our AI-powered SSB Preparation platform for free. Access basic 
 
 | Features           | Individual | Starter          | Enterprise            |
 | :----------------- | :--------- | :--------------- | --------------------- |
-| **Pricing**        | **Free**   | **₹399 / Month** | **₹9,999**            |
+| **Pricing**        | **Free**   | **₹399 / Month** | **[Contact](/#contact)**            |
 | **{++AI Tests++}**       | 5 / Month    | 999 / Month        | 99,999 / Month          |
 | **Custom Support** | Email      | Phone + Email    | Everywhere (priority) |
 | **Accounts**       | 1 Account  | 1 Account        | 25 Accounts           |
